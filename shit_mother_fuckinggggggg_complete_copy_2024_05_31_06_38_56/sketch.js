@@ -7,7 +7,7 @@ let loadingMessage = 'Loading...';
 
 function preload() {
   // 사운드 파일 로드
-  soundFile = loadSound('y2mate.com - ENGLAND ENGLAND.mp3', onSoundLoaded);
+  soundFile = loadSound('y2mate.com - 날씨의 아이 ost RADWIMPS 그랜드 이스케이프 グランドエスケープ Movie Edit.mp3', onSoundLoaded);
 
   // 이미지 파일 로드
   let imageKeys = [
